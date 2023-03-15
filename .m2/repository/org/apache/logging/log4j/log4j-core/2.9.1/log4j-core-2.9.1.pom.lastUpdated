@@ -1,0 +1,4 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Sat Oct 07 12:55:03 CST 2017
+@default-central-https\://repo.maven.apache.org/maven2/.lastUpdated=1507352103347
+https\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.logging.log4j\:log4j-core\:pom\:2.9.1 from/to central (https\://repo.maven.apache.org/maven2)\: C\:\\_JSP\\.m2\\repository\\org\\apache\\logging\\log4j\\log4j-core\\2.9.1\\aether-f2feffa8-ba19-4d94-b9e1-08ee9dfaf1f7-log4j-core-2.9.1.pom-in-progress (\u7CFB\u7D71\u627E\u4E0D\u5230\u6307\u5B9A\u7684\u6A94\u6848\u3002)
